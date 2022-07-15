@@ -1,6 +1,6 @@
-import logo from '../../assets/img/logo.png'
+import logo from '../../assets/img/logo.png';
 
-import './style.css'
+import './style.css';
 
 function header() {
 
@@ -19,4 +19,4 @@ function header() {
     )
 }
 
-export default header
+export default header;

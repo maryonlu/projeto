@@ -1,7 +1,7 @@
 
-import Header from './components/Header'
-import Salecard from './components/Salecard'
-import NotificationButton from "./components/NotificationButton"
+import Header from './components/Header';
+import Salecard from './components/Salecard';
+import NotificationButton from "./components/NotificationButton";
 
 
 
@@ -22,4 +22,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
