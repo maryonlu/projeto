@@ -9,7 +9,7 @@ function header() {
         <header>
         <div className="dsmeta-logo-container">
             <img src= {logo} alt="DSMeta" />
-            <h1>DSMeta</h1>
+            <h1>DSmeta</h1>
             <p>
               Desenvolvido por
               <a href="https://www.linkedin.com/in/mariana-rocha-barbosa-7a103b241/">@devmaryonlu</a>
